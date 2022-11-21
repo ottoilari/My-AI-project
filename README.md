@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# My AI Project
+# My AI Project for Building AI online course
 
 Final project for the Building AI course
 
